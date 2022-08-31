@@ -38,6 +38,8 @@ header h1 {
   margin-bottom: 0.25em;
 }
 header {
+	display: flex;
+	justify-content: center;
 	text-align: center;
 }
 
